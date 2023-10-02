@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Eternal Sunshine</title>
+  <icon>http://tech.wuzy.cn/img/logo_384%C3%9788.png</icon>
+  
+  <link href="http://tech.wuzy.cn/atom.xml" rel="self"/>
+  
+  <link href="http://tech.wuzy.cn/"/>
+  <updated>2023-10-01T19:09:03.316Z</updated>
+  <id>http://tech.wuzy.cn/</id>
+  
+  <author>
+    <name>吴征阳</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【译文】Google Cloud Run 和 Knative 真的一样吗</title>
+    <link href="http://tech.wuzy.cn/p/is-google-cloud-run-really-a-knative/"/>
+    <id>http://tech.wuzy.cn/p/is-google-cloud-run-really-a-knative/</id>
+    <published>2023-09-21T03:44:07.000Z</published>
+    <updated>2023-10-01T19:09:03.316Z</updated>
+    
+    
+    <summary type="html">本文翻译自 Ahmet Alp Balkan 在 2020 年 3 月发布的博文《Is Google Cloud Run really Knative?》。用以阐述谷歌开源的无服务器引擎 Knative 与其商业版无服务器平台 Google Cloud Run 的关系和区别。</summary>
+    
+    
+    
+    <category term="Cloud Native" scheme="http://tech.wuzy.cn/categories/Cloud-Native/"/>
+    
+    
+    <category term="Kubernetes" scheme="http://tech.wuzy.cn/tags/Kubernetes/"/>
+    
+    <category term="serverless" scheme="http://tech.wuzy.cn/tags/serverless/"/>
+    
+    <category term="Knative" scheme="http://tech.wuzy.cn/tags/Knative/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Lightweight Microservice Traffic Manager by eBPF</title>
+    <link href="http://tech.wuzy.cn/p/ebpf-traffic-manager/"/>
+    <id>http://tech.wuzy.cn/p/ebpf-traffic-manager/</id>
+    <published>2023-09-21T02:58:55.000Z</published>
+    <updated>2023-10-01T19:08:58.544Z</updated>
+    
+    
+    <summary type="html">This article explains the design and implementation ideas of a lightweight microservice traffic management project based on eBPF. 本文介绍了一个基于 eBPF 的轻量级微服务流量管理工具的设计和实现思想。</summary>
+    
+    
+    
+    <category term="Cloud Native" scheme="http://tech.wuzy.cn/categories/Cloud-Native/"/>
+    
+    
+    <category term="eBPF" scheme="http://tech.wuzy.cn/tags/eBPF/"/>
+    
+    <category term="Kubernetes" scheme="http://tech.wuzy.cn/tags/Kubernetes/"/>
+    
+    <category term="microservice" scheme="http://tech.wuzy.cn/tags/microservice/"/>
+    
+    <category term="AI Ops" scheme="http://tech.wuzy.cn/tags/AI-Ops/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://tech.wuzy.cn/p/hello-world/"/>
+    <id>http://tech.wuzy.cn/p/hello-world/</id>
+    <published>2023-07-17T04:09:40.444Z</published>
+    <updated>2023-10-01T13:54:22.913Z</updated>
+    
+    
+    <summary type="html">Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.</summary>
+    
+    
+    
+    <category term="test" scheme="http://tech.wuzy.cn/categories/test/"/>
+    
+    
+  </entry>
+  
+</feed>
