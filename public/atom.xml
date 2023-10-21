@@ -6,7 +6,7 @@
   <link href="http://tech.wuzy.cn/atom.xml" rel="self"/>
   
   <link href="http://tech.wuzy.cn/"/>
-  <updated>2023-10-01T19:09:03.316Z</updated>
+  <updated>2023-10-21T07:21:08.813Z</updated>
   <id>http://tech.wuzy.cn/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>【译文】Google Cloud Run 和 Knative 真的一样吗</title>
+    <title>性能分析方法论及策略——传统方法与 BPF 方法</title>
+    <link href="http://tech.wuzy.cn/p/performance-analysis-methodology/"/>
+    <id>http://tech.wuzy.cn/p/performance-analysis-methodology/</id>
+    <published>2023-10-21T06:00:00.000Z</published>
+    <updated>2023-10-21T07:21:08.813Z</updated>
+    
+    
+    <summary type="html">本文将从系统维护者的角度对性能优化相关的方法论进行梳理，并特别阐述新生的 eBPF 给性能分析领域带来的影响。由于不同读者的知识领域并不完全相同，所以本文将不会涉及到具体实现，但只要读者有性能优化的需求，那么本文可能就会有所裨益。</summary>
+    
+    
+    
+    <category term="Cloud Native" scheme="http://tech.wuzy.cn/categories/Cloud-Native/"/>
+    
+    
+    <category term="BPF" scheme="http://tech.wuzy.cn/tags/BPF/"/>
+    
+    <category term="performance" scheme="http://tech.wuzy.cn/tags/performance/"/>
+    
+    <category term="Linux" scheme="http://tech.wuzy.cn/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【译】Google Cloud Run 和 Knative 真的一样吗</title>
     <link href="http://tech.wuzy.cn/p/is-google-cloud-run-really-a-knative/"/>
     <id>http://tech.wuzy.cn/p/is-google-cloud-run-really-a-knative/</id>
     <published>2023-09-21T03:44:07.000Z</published>
-    <updated>2023-10-01T19:09:03.316Z</updated>
+    <updated>2023-10-21T06:21:12.440Z</updated>
     
     
     <summary type="html">本文翻译自 Ahmet Alp Balkan 在 2020 年 3 月发布的博文《Is Google Cloud Run really Knative?》。用以阐述谷歌开源的无服务器引擎 Knative 与其商业版无服务器平台 Google Cloud Run 的关系和区别。</summary>
@@ -44,7 +67,7 @@
     <link href="http://tech.wuzy.cn/p/ebpf-traffic-manager/"/>
     <id>http://tech.wuzy.cn/p/ebpf-traffic-manager/</id>
     <published>2023-09-21T02:58:55.000Z</published>
-    <updated>2023-10-01T19:08:58.544Z</updated>
+    <updated>2023-10-21T06:20:58.892Z</updated>
     
     
     <summary type="html">This article explains the design and implementation ideas of a lightweight microservice traffic management project based on eBPF. 本文介绍了一个基于 eBPF 的轻量级微服务流量管理工具的设计和实现思想。</summary>
@@ -54,7 +77,7 @@
     <category term="Cloud Native" scheme="http://tech.wuzy.cn/categories/Cloud-Native/"/>
     
     
-    <category term="eBPF" scheme="http://tech.wuzy.cn/tags/eBPF/"/>
+    <category term="BPF" scheme="http://tech.wuzy.cn/tags/BPF/"/>
     
     <category term="Kubernetes" scheme="http://tech.wuzy.cn/tags/Kubernetes/"/>
     
