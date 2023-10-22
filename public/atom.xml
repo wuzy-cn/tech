@@ -6,7 +6,7 @@
   <link href="http://tech.wuzy.cn/atom.xml" rel="self"/>
   
   <link href="http://tech.wuzy.cn/"/>
-  <updated>2023-10-21T07:21:08.813Z</updated>
+  <updated>2023-10-22T03:34:04.879Z</updated>
   <id>http://tech.wuzy.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://tech.wuzy.cn/p/performance-analysis-methodology/"/>
     <id>http://tech.wuzy.cn/p/performance-analysis-methodology/</id>
     <published>2023-10-21T06:00:00.000Z</published>
-    <updated>2023-10-21T07:21:08.813Z</updated>
+    <updated>2023-10-22T03:34:04.879Z</updated>
     
     
     <summary type="html">本文将从系统维护者的角度对性能优化相关的方法论进行梳理，并特别阐述新生的 eBPF 给性能分析领域带来的影响。由于不同读者的知识领域并不完全相同，所以本文将不会涉及到具体实现，但只要读者有性能优化的需求，那么本文可能就会有所裨益。</summary>
